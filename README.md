@@ -6,8 +6,7 @@ Homebrew Launcher (Switch) is a project based on Switchbrew's nx-hbmenu. The goa
 
 ## Screenshot
 
-<img width="1280" height="720" alt="2026060214005400-57B4628D2267231D57E0FC1078C0596D" src="https://github.com/user-attachments/assets/6d21fee1-dbb3-4e51-8a41-8a57b28e7a1a" />
-
+<img width="1280" height="720" alt="2026060214123400-57B4628D2267231D57E0FC1078C0596D" src="https://github.com/user-attachments/assets/9ff96199-6a3e-4c05-8bbe-c014d988113c" />
 
 ## Current Changes
 

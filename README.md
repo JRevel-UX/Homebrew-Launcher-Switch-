@@ -1,4 +1,4 @@
-# Homebrew-Launcher-Switch-
+# Homebrew-Launcher(Switch)
 Homebrew Launcher is a refinement of Switchbrew's homebrew menu(https://github.com/switchbrew/nx-hbmenu).
 
 # Current changes and refinments to enhance user experience(as of 6/1/2026).

@@ -1,20 +1,29 @@
-# NOT to be confused with the exploit Homebrew-Launcher. 
-# Homebrew-Launcher(Switch)
-Homebrew Launcher is a refinement of Switchbrew's homebrew menu(https://github.com/switchbrew/nx-hbmenu).
+# Homebrew Launcher (Switch)
 
-# Current changes and refinments to enhance user experience(as of 6/1/2026).
+> Not to be confused with the Homebrew Launcher exploit.
 
-Changed icon.jpg to original 3DS homebrew launcher icon. 
+Homebrew Launcher (Switch) is a project based on Switchbrew's nx-hbmenu. The goal is to improve the overall user experience while keeping the launcher familiar to existing homebrew users.
 
-Changed name from "nx-hbmenu" to "Homebrew Launcher" to make it less confusing for users who don't understand abbreviations.
+## Screenshot
 
-# Current plans for future enhancments.
+<img width="1280" height="720" alt="2026060214005400-57B4628D2267231D57E0FC1078C0596D" src="https://github.com/user-attachments/assets/6d21fee1-dbb3-4e51-8a41-8a57b28e7a1a" />
 
-Bring Wii Homebrew Channel music to current Homebrew Launcher. 
 
-Full Homebrew Launcher menu overhaul.
+## Current Changes
 
-Easier navigation of .nro files.
+* Restored the classic Nintendo 3DS Homebrew Launcher icon.
+* Renamed "nx-hbmenu" to "Homebrew Launcher" to make the name easier for users to understand.
+* Various UI and usability improvements.
 
-Overall upgrades to enhance preformance and user experience. 
+## Planned Features
 
+* Wii Homebrew Channel music.
+* Full menu redesign.
+* Easier navigation of .nro files.
+* General performance and usability improvements.
+
+## Credits
+
+This project is based on Switchbrew's nx-hbmenu:
+
+https://github.com/switchbrew/nx-hbmenu
